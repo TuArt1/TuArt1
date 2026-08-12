@@ -103,9 +103,7 @@ Atuo na evolução e sustentação de soluções empresariais, combinando conhec
 - Integrações entre sistemas corporativos
 
 ---
----
 
-## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
 <div align="center">
