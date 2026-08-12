@@ -1,103 +1,225 @@
 <h1 align="center">👨‍💻 Arthur Correia Nunes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;+Sou+Analista+de+Sistemas;+Desenvolvedor+Full+Stack+em+formação;+Apaixonado+por+Tecnologia+e+Inovação!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=28&center=true&vCenter=true&width=1000&lines=Olá%2C+seja+bem-vindo!;Analista+de+Sistemas;Desenvolvedor+Full+Stack+em+formação;Python+%7C+SQL+%7C+APIs+%7C+Integrações;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/TuArt1">
+    <img src="https://img.shields.io/badge/GitHub-TuArt1-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-correia-nunes-053696191/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Correia-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arthur.nunes31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 💼 Sobre Mim
+## 💼 Sobre Mim
 
-Profissional de **Tecnologia da Informação** com sólida experiência em **sistemas corporativos, desenvolvimento de software, sustentação, banco de dados e integrações entre sistemas**. Atuo na evolução de soluções empresariais, unindo conhecimento técnico de ponta a uma visão estratégica de negócios para entregar resultados que realmente fazem a diferença.
+Sou profissional de **Tecnologia da Informação**, com experiência em **sistemas corporativos, desenvolvimento de software, sustentação, banco de dados e integrações entre sistemas**.
 
-- 🏢 **Especialista em Ecossistema TOTVS** (RM, RM Labore, Protheus, Automação de Ponto, SSO)
-- 🗄️ **Expert em SQL** (Consultas complexas, otimização, relatórios gerenciais)
-- 🐍 **Desenvolvedor Python** (Automação, análise de dados, web scraping)
-- 🔗 **Integrador de Sistemas** (APIs REST, SOAP, arquitetura de microserviços)
-- 🌐 **Desenvolvimento Full Stack** (React, React Native, Node.js)
-- 📊 **Análise de Dados e Processos** (Levantamento de requisitos, mapeamento de fluxos, BPM)
+Atuo na evolução e sustentação de soluções empresariais, combinando conhecimento técnico com entendimento dos processos de negócio para desenvolver soluções eficientes, automatizar tarefas e melhorar processos.
 
-📚 **Em constante evolução**, busco me aperfeiçoar em **Cloud Computing (AWS/Azure), Inteligência Artificial e Arquitetura de Sistemas** para construir soluções cada vez mais escaláveis e inteligentes.
+### 🔎 Principais áreas de atuação
 
----
+- 🏢 **Sistemas corporativos e ERP** — TOTVS RM, RM Labore, Protheus
+- 🗄️ **Banco de dados e SQL** — consultas, relatórios, tratamento e validação de dados
+- 🐍 **Python** — automação, processamento de dados e web scraping
+- 🔗 **Integrações** — APIs REST, SOAP, XML e JSON
+- 🌐 **Desenvolvimento** — React, React Native e Node.js
+- 🧪 **Qualidade** — testes, homologação e validação funcional
+- 📋 **Análise de sistemas** — requisitos, processos e documentação
+- 🔄 **Projetos e mudanças** — GMUD/RDM, migração e validação de dados
 
-### 🛠️ Stack Tecnológica
-
-#### 💻 **Desenvolvimento & Front-end**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### 🗄️ **Banco de Dados**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-*Domínio em: `SELECT`, `JOIN`, `GROUP BY`, `SUM`, `CASE`, `COALESCE`, Subqueries, Procedures, Functions e otimização de performance.*
-
-#### 🔗 **Integrações & APIs**
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP_API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![XML](https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-#### 🏢 **Sistemas Corporativos & ERP**
-![TOTVS](https://img.shields.io/badge/TOTVS_RM-0066B3?style=for-the-badge&logo=databricks&logoColor=white)
-![Protheus](https://img.shields.io/badge/Protheus-00599C?style=for-the-badge&logo=advance&logoColor=white)
-![eSocial](https://img.shields.io/badge/eSocial-005CA9?style=for-the-badge&logo=gov&logoColor=white)
+📚 Atualmente continuo aprimorando meus conhecimentos em **Cloud Computing, Inteligência Artificial, automação e arquitetura de sistemas**.
 
 ---
 
-### 📂 Projetos em Destaque
+## 🛠️ Stack Tecnológica
 
-#### 🏆 **Portfólio Pessoal**
-Repositório central com todos os meus projetos, estudos e experimentos em desenvolvimento de software.
-- **Tecnologias:** React, React Native, JavaScript, Python, SQL, Node.js
+### 💻 Desenvolvimento
 
-#### ⚽ **Sistema de Compra e Venda de Troféus**
-Uma plataforma simulada para compra e venda de troféus de campeonatos de futebol, com uma experiência de usuário completa.
-- **Funcionalidades:** Autenticação, Catálogo, Carrinho de Compras, Checkout (PIX, Cartão, Boleto), Histórico de Pedidos, Perfil e Dark Mode.
-- **Tecnologias:** `React Native`, `Expo`, `JavaScript`, `AsyncStorage`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-#### 🤖 **Automação & Extração de Dados**
-Projetos em Python focados em automação de tarefas repetitivas, coleta inteligente de dados, tratamento e validação de informações.
-- **Tecnologias:** `Python`, `Playwright`, `Web Automation`, `SQL`, `Pandas`
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Conhecimentos:**
+
+`SELECT` `JOIN` `GROUP BY` `SUM` `CASE` `COALESCE` `Subqueries` `Functions` `Procedures`
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🔗 Integrações & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAP_API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</p>
+
+- APIs REST e SOAP
+- Integração entre sistemas
+- Manipulação de XML e JSON
+- Migração de dados
+- Validação de informações
+- Automação de processos
+
+---
+
+### 🏢 Sistemas Corporativos
+
+<p>
+  <img src="https://img.shields.io/badge/TOTVS_RM-0066B3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protheus-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/eSocial-005CA9?style=for-the-badge" />
+</p>
+
+**Experiência com:**
+
+- TOTVS RM
+- RM Labore
+- RM Automação de Ponto
+- RM Segurança e Saúde Ocupacional
+- Protheus
+- eSocial
+- Ahgora
+- Integrações entre sistemas corporativos
+
+---
+
+## 🧪 Análise de Sistemas & Processos
+
+Além do desenvolvimento, possuo experiência em atividades relacionadas à **Análise de Sistemas**:
+
+| Área | Atuação |
+|---|---|
+| 🔎 Requisitos | Levantamento e documentação de requisitos funcionais |
+| 🗺️ Processos | Mapeamento e análise de processos |
+| 🧪 Testes | Testes funcionais e homologação |
+| ✅ Validação | Validação funcional de soluções |
+| 📝 Documentação | Documentação técnica |
+| 🔄 Mudanças | GMUD / RDM |
+| 📦 Dados | Migração e validação de dados |
+| 🔗 Integrações | Análise de integrações entre sistemas |
+
+---
+
+# 📂 Projetos em Destaque
+
+## 🏆 Portfolio
+
+Repositório dedicado aos meus projetos, estudos e experimentos em desenvolvimento de software.
+
+**Tecnologias:**
+
+`React` `React Native` `JavaScript` `Python` `SQL` `Node.js`
+
+---
+
+## ⚽ Sistema de Compra e Venda de Troféus
+
+Aplicação desenvolvida para simular uma plataforma de compra e venda de troféus relacionados a campeonatos de futebol.
+
+### ✨ Funcionalidades
+
+- 🔐 Login e cadastro
+- 🏆 Catálogo de produtos
+- 🔎 Detalhes do produto
+- 🛒 Carrinho de compras
+- 💳 Checkout
+- 📱 PIX
+- 💰 Cartão de crédito
+- 🧾 Boleto
+- 📦 Histórico de pedidos
+- 👤 Perfil do usuário
+- 🌙 Dark Mode
+
+**Tecnologias:**
+
+`React Native` `Expo` `JavaScript` `AsyncStorage`
+
+---
+
+## 🤖 Automação & Extração de Dados
+
+Projetos desenvolvidos em Python com foco em:
+
+- Automação de tarefas
+- Web scraping
+- Coleta de dados
+- Tratamento de informações
+- Validação de dados
+- Integração com sistemas
+
+**Tecnologias:**
+
+`Python` `Playwright` `Pandas` `SQL` `Web Automation`
+
+---
+
+# 📚 Atualmente Estudando
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuArt1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuArt1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+`🐍 Python`
+
+`🗄️ SQL`
+
+`🔗 APIs REST`
+
+`⚛️ React`
+
+`📱 React Native`
+
+`🤖 Inteligência Artificial`
+
+`☁️ Cloud Computing`
+
+`🏗️ Arquitetura de Sistemas`
+
+`🧪 Testes Automatizados`
+
 </div>
 
 ---
 
-### 📫 Conecte-se Comigo
+# 🎯 Objetivo Profissional
 
-<p align="center">
-  <a href="mailto:arthur.nunes31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-correia-nunes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/TuArt1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+Busco oportunidades como:
 
----
+### **Analista de Sistemas • Analista Programador • Desenvolvedor Júnior**
 
-### 💡 Minha Filosofia
+Tenho interesse principalmente em projetos envolvendo:
 
-> *"Transformar problemas complexos em soluções elegantes através da tecnologia, sempre com foco em gerar valor real para os negócios e as pessoas."*
-
-**🚀 Vamos construir algo incrível juntos?**
-
-Se algum dos meus projetos chamou sua atenção ou se você tem uma ideia inovadora, não hesite em entrar em contato! Adoro colaborar e aprender com a comunidade.
-
-⭐ **Não se esqueça de deixar uma estrela nos projetos que você gostar!**
+```text
+┌─────────────────────────────────────────────┐
+│          DESENVOLVIMENTO & TECNOLOGIA       │
+├─────────────────────────────────────────────┤
+│                                             │
+│  🐍 Python                                  │
+│  🗄️ SQL & Banco de Dados                    │
+│  🔗 APIs & Integrações                       │
+│  🏢 Sistemas Corporativos                    │
+│  ⚙️ Automação                               │
+│  📋 Análise de Sistemas                      │
+│  🤖 Inteligência Artificial                  │
+│  ☁️ Cloud Computing                          │
+│                                             │
+└─────────────────────────────────────────────┘
