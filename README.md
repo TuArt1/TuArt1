@@ -103,7 +103,28 @@ Atuo na evolução e sustentação de soluções empresariais, combinando conhec
 - Integrações entre sistemas corporativos
 
 ---
+---
 
+## 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuArt1&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuArt1&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuArt1&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=TuArt1&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 ## 🧪 Análise de Sistemas & Processos
 
 Além do desenvolvimento, possuo experiência em atividades relacionadas à **Análise de Sistemas**:
